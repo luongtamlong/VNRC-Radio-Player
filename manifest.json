@@ -1,10 +1,10 @@
 {
-  "name": "Jailson Webradio",
-  "short_name": "Jailson Webradio",
+  "name": "VNRC Radio",
+  "short_name": "VNRC",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#e6e1db",
+  "theme_color": "#e6e1db",
   "icons": [
     {
       "src": "img/cover.png",
