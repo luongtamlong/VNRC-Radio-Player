@@ -1,11 +1,11 @@
-const RADIO_NAME = "Jailson Web Rádio";
+const RADIO_NAME = "VNRC Radio";
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = "https://stream.zeno.fm/yn65fsaurfhvv";
+const URL_STREAMING = "https://stream.zeno.fm/qnbaox4th7ruv";
 
 //API URL /
-const API_URL = "https://twj.es/radio_info/?radio_url=" + URL_STREAMING;
-const FALLBACK_API_URL = "https://api-v2.streamafrica.net/icyv2?url=" + URL_STREAMING;
+const API_URL = "https://twj.es/radio_info/?radio_url=https://stream.zeno.fm/qnbaox4th7ruv" + URL_STREAMING;
+const FALLBACK_API_URL = "https://api-v2.streamafrica.net/icyv2?url=https://stream.zeno.fm/qnbaox4th7ruv" + URL_STREAMING;
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
